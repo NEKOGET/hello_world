@@ -1,0 +1,14 @@
+#project
+
+
+#intelliJ
+.idea
+*.ml
+
+
+# Mac
+.DS_Store
+._*
+
+# Win
+Thumbs.db
